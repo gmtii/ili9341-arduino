@@ -7,9 +7,15 @@ Pinout:
 (Arduino: TFT)
 
 D4 :  RESET
+
 D5 :  CS
+
 D6 :  D/C
+
 D7 :  LED
+
 D11 : MOSI
+
 D12 : MISO
+
 D13 : SCK
